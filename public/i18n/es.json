@@ -6,5 +6,14 @@
   "about": {
     "title" : "About Us",
     "content": "ACME aprendizaje es una empresa de.. si"
+  },
+  "page-not-found": {
+    "title": "Pagina no encontrada",
+    "content": "la ruta <strong>{{ invalid_path}}</strong> no es valida.",
+    "go-home": "Ir al Inicio"
+  },
+  "option": {
+    "home": "Inicio",
+    "about": "Acerca de"
   }
 }
