@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Welcome",
+    "content": "Bienvenido al Centro de Aprendizaje ACME.",
+  },
+  "about": {
+    "title" : "About Us",
+    "content": "ACME aprendizaje es una empresa de.. si"
+  }
+}
